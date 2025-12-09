@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "8163528930:AAEOS5wEXCHmr9-URKtYOciV02ybDAViZOg" # Enter your telegram bot token
+OWNER_ID = "-1003035503709" # Enter your telegram user id
+TELEGRAM_API = "8749483" # Enter telegram API key
+TELEGRAM_HASH = "649fb830f7ad21c545448f10bc34a41c" # Enter telegram API hash
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
